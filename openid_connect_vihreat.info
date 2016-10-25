@@ -1,0 +1,4 @@
+name = OpenID Connect Vihreät
+description = Integrates with OpenID Connect to allow sign in with VihreätSSO
+core = 7.x
+dependencies[] = openid_connect
